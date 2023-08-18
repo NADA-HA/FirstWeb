@@ -1,1 +1,2 @@
 # FirstWeb
+I wanted to share a project I recently completed focused on HTML programming. In this project, I designed webpage using HTML that showcases the fundamental concepts of web development. I incorporated various HTML tags to structure the content, including headings, paragraphs, lists, and hyperlinks. This project allowed me to strengthen my HTML skills and gain a deeper understanding of how to create interactive and engaging web content.
